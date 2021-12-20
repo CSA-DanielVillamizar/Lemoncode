@@ -1,6 +1,6 @@
 # webinar-github-actions
 
-Demos del webinar "Introduccion a Github Actions" impartido por [Gisela Torres](https://github.com/0GiS0)
+Demos del webinar "Introduccion a Github Actions" impartido por [Daniel Villamizar](https://github.com/CSA-DanielVillamizar)
 
   - Demo 1: Empezando con los workflows y CI
 
